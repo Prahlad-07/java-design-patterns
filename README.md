@@ -25,6 +25,15 @@ Examples:
 - Strategy  
 - Command  
 
+## Why You Should Learn Design Patterns  
+
+- **Improves Code Quality** – Helps write cleaner, modular, and reusable code.  
+- **Enhances Problem-Solving Skills** – Provides proven solutions to common design challenges.  
+- **Promotes Best Practices** – Encourages the use of industry-standard coding approaches.  
+- **Facilitates Collaboration** – Makes it easier to work in teams by following a common design language.  
+- **Optimizes Performance** – Helps in designing efficient and scalable applications.  
+- **Increases Career Opportunities** – Many companies look for developers with design pattern knowledge.  
+
 ## What You Will Learn  
 - The importance of design patterns in Java development  
 - How to implement each pattern with real-world examples  
