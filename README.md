@@ -2,7 +2,14 @@
 
 ## About the Course
 
-Design patterns are proven solutions to common software design problems, helping developers create scalable, maintainable, and efficient applications. This **Java Design Patterns** course covers essential patterns from all three major categories:
+Design patterns are proven solutions to common software design problems, helping developers create scalable, maintainable, and efficient applications. This **Java Design Patterns** course covers essential patterns from all three major categories.
+
+### Important Links
+- Video (free) Course Link: [Java Design Patterns](https://www.youtube.com/playlist?list=PL5DyztRVgtRUqnoWYVAFC1honDiDpdKOX)
+- Connect on
+  - [LinkedIn](https://www.linkedin.com/in/waqar-ahmad-cnc/)
+  - [Youtube](https://www.youtube.com/@codencode)
+  - [Instagram](https://www.instagram.com/code_ncode/?hl=en)
 
 ### 1. Creational Patterns  
 Focus on object creation mechanisms to improve flexibility and reuse.  
