@@ -1,20 +1,21 @@
-# Factory Method Pattern
+# Proxy Design Pattern
 
 
-The Factory Method Pattern is a **Creational Design Pattern** that provides an interface for creating objects but allows 
-subclasses to alter the type of objects that will be created.
-It helps in **encapsulating** the object creation logic,promoting **loose coupling** and making the code more 
-**flexible** and **maintainable**.
+The **Proxy Pattern** is a structural design pattern that provides a surrogate or placeholder for another object to control 
+access to it. It is used when you want to add an extra layer of control over how and when an object is accessed or 
+manipulated. The proxy acts as an intermediary between the client and the real object, allowing the proxy to perform 
+additional tasks before or after the request reaches the real object.
 
 ## Lecture & Important links
 
-- **Lecture Link** - [L04 - Factory Method Pattern](https://youtu.be/t-WDABdUjy8)
+- **Lecture Link** - [L07 - Proxy Design Pattern](https://youtu.be/t-WDABdUjy8)
 - **Complete Playlist** - [Design Patterns](https://www.youtube.com/playlist?list=PL5DyztRVgtRUqnoWYVAFC1honDiDpdKOX)
 - **Other Courses** - [CodeNCode @ YT](https://www.youtube.com/@codencode)
 
 
 
 ## About the implementation
-Factory Method Pattern is implemented using two different approaches.
-1. Simple Approach: In this approach a single factory class is used to create multiple products (class objects).
-2. Preferred Approach: In this approach a single factory class is used for a single concrete class.
+Proxy Design Pattern is implemented using three different types.
+1. **protection_proxy**: Controls access to the real object based on access rights or permissions.
+2. **smart_proxy**: Adds additional behavior when the real object is accessed, such as logging, caching, or reference counting.
+3. **virtual_proxy**: Delays the creation and initialization of expensive objects until they are actually needed (lazy initialization).
