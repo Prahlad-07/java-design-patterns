@@ -15,7 +15,7 @@ Design patterns are proven solutions to common software design problems, helping
 Focus on object creation mechanisms to improve flexibility and reuse.  
 Examples:  
 - Singleton  
-- Factory  
+- Factory  ,
 - Builder  
 
 ### 2. Structural Patterns  
